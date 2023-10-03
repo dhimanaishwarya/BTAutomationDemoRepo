@@ -1,0 +1,11 @@
+# Selenium WebDriver for Python
+selenium==3.141.0
+
+# Testing framework (e.g., pytest)
+pytest==7.4.2
+
+# WebDriver manager for automatic driver setup
+webdriver-manager==3.5.0
+
+# Reporting library for pytest
+pytest-html==4.3.0
